@@ -1,9 +1,13 @@
 # Git Bash 명령어
-### Add SubModule
+
+### ✅ Add SubModule
+```
 git submodule add <SubModule Repo URL> <LocalPath>
+```
 
 <br>
-<br>
 
-### Fetch SubModule
+### ✅ Fetch SubModule
+```
 git submodule update --remote
+```

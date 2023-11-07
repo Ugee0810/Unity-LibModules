@@ -1,6 +1,6 @@
 {
-    "name": "com.Ugee0810.Unity-LibModules",
-    "version": "0.1.0",
+    "name": "com.ugee0810.unitylibmodules",
+    "version": "0.1.1",
     "displayName": "Unity LibModules",
     "description": "This is the common util of the Unity project.",
     "unity": "2022.3",
